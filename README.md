@@ -1,25 +1,24 @@
 # Structure from Motion (SfM)
 ## Data 
 The data consist of 6 images provided which are from different camera perspectives of the same building with fixed camera parameters.
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <figure>
+<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
+  <figure style="margin: 10px;">
     <img src="P3Data/1.png" width="256">
     <figcaption style="text-align: center;">Pose 1</figcaption>
   </figure>
-  <figure>
+  <figure style="margin: 10px;">
     <img src="P3Data/2.png" width="256">
     <figcaption style="text-align: center;">Pose 2</figcaption>
   </figure>
-  <figure>
+  <figure style="margin: 10px;">
     <img src="P3Data/3.png" width="256">
     <figcaption style="text-align: center;">Pose 3</figcaption>
   </figure>
-  <figure>
+  <figure style="margin: 10px;">
     <img src="P3Data/4.png" width="256">
     <figcaption style="text-align: center;">Pose 4</figcaption>
   </figure>
-  <figure>
+  <figure style="margin: 10px;">
     <img src="P3Data/5.png" width="256">
     <figcaption style="text-align: center;">Pose 5</figcaption>
   </figure>

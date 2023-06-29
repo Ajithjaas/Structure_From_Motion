@@ -1,6 +1,6 @@
 # Structure from Motion (SfM)
 ## Data 
-The data consist of 6 images provided which are from different camera perspectives of the same building with fixed camera parameters.
+The data consist of 5 images provided which are from different camera perspectives of the same building with fixed camera parameters.
 <p align="center">
   <img src="P3Data/1.png" width="256">
   <img src="P3Data/2.png" width="256">
